@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsOperations", "ExpressionsParser\SetsOperations.csproj", "{F1F7427E-6907-4D73-87B1-E00A69D9ED26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsOperations", "SetsOperations\SetsOperations.csproj", "{F1F7427E-6907-4D73-87B1-E00A69D9ED26}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsOperationsTests", "SetsOperations.Tests\SetsOperationsTests.csproj", "{CE15279E-BDA9-4A06-9533-7E2D8E101846}"
 EndProject

@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ExpressionsParser\SetsOperations.csproj" />
+    <ProjectReference Include="..\SetsOperations\SetsOperations.csproj" />
   </ItemGroup>
 
 </Project>
